@@ -1,0 +1,36 @@
+:linux:
+ - /etc/passwd
+ - /etc/shadow
+ - /etc/group
+ - /etc/hosts
+ - /etc/apache2/logs/access.log
+ - /etc/httpd/access.log
+ - /etc/init.d/apache/httpd.conf
+ - /etc/init.d/apache/httpd.conf
+ - /etc/init.d/apache2/httpd.conf
+ - /usr/local/apache2/conf/httpd.conf
+ - /usr/local/apache/conf/httpd.conf
+ - /home/apache/httpd.conf
+ - /home/apache/conf/httpd.conf
+ - /opt/apache/conf/httpd.conf
+ - /etc/httpd/httpd.conf
+ - /etc/httpd/conf/httpd.conf
+ - /etc/apache/apache.conf
+ - /etc/apache/httpd.conf
+ - /etc/apache2/apache2.conf
+ - /etc/apache2/httpd.conf
+ - /usr/local/apache2/conf/httpd.conf
+ - /usr/local/apache/conf/httpd.conf
+ - /opt/apache/conf/httpd.conf
+ - /home/apache/httpd.conf
+ - /home/apache/conf/httpd.conf
+ - /etc/apache2/sites-available/default
+ - /etc/apache2/vhosts.d/default_vhost.include
+ - /var/www/vhosts/sitename/httpdocs//etc/init.d/apache
+:win:
+ - C:/wamp/bin/apache/logs/access.log
+ - C:/wamp/bin/mysql/mysql5.5.24/wampserver.conf
+ - C:/wamp/bin/apache/apache2.2.22/conf/httpd.conf
+ - C:/wamp/bin/apache/apache2.2.22/conf/wampserver.conf
+ - C:/wamp/bin/apache/apache2.2.22/conf/httpd.conf.build
+ - C:/wamp/bin/apache/apache2.2.22/conf/httpd.conf.build

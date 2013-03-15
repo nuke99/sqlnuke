@@ -1,0 +1,11 @@
+# SQLNuke | Fast Performing MYSQL Injection read_file() Fuzzer
+# for more information follow me at : https://twitter.com/nuke_99
+
+name: SQLNuke
+discription: Fast Performing MYSQL Injection load_file() Fuzzer
+version: 1.2
+author: Nuke99
+
+# System Configaration
+port: 80
+grabber: XxxX
