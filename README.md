@@ -4,7 +4,7 @@ SQLNuke is Simple SQL Injection load_file() fuzzer written in Object Oriented ru
 
 In SQL Injection and when you need to gather some information out of the server . the best way you can think of is load_file() <a href="http://dev.mysql.com/doc/refman/5.0/en/string-functions.html#function_load-file">http://dev.mysql.com/doc/refman/5.0/en/string-functions.html#function_load-file</a> function . and it take a amount of time when you have to guess and do it manually, so the idea of SQLNuke is to help to make the process fast and guess the internal common files using a list file.</p>
 
-##Useage Clip
+##Usage Clip
 ![SQLNuke](http://www.pixentral.com/pics/1rMmil6o1pSBnRFOQC8bpjdQvp.gif "SQLNuke")
 
 ## Requirements 
@@ -28,7 +28,7 @@ $ git clone https://github.com/nuke99/sqlnuke.git
 $ cd sqlnuke
 $ ./sql.rb
 ```
-**Basic Useage**
+**Basic Usage**
 
 
 
